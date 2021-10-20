@@ -1,4 +1,4 @@
-# ( Enterprise Resource Planning )ERP <br>
+# Enterprise Resource Planning (ERP) <br>
 
 Skill Used: JSP,JavaScript,JDBC,MySQL,Servlets,XML,JDBC,J2EE,JSON.<br>
 Duration: 1 month <br>
